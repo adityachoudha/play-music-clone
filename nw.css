@@ -1,0 +1,54 @@
+body{
+    margin: 0px;
+    margin-top: -20px;
+    background-color:white;
+}
+#container{
+    background-color: orangered;
+    height: 80px;
+    width: 100vw;
+}
+#topics , #top{
+    color: white;
+}
+.pull-right{
+    float: right;
+    padding: 15px;
+}
+.alone{
+  padding: 5px;
+}
+span{
+    margin-left: 20px;
+}
+#bott{
+	position:absolute;
+	bottom:10px;
+    height: 60px;
+    width: 100vw;
+    background-color: white;
+    color: black;
+	border-top:1px solid grey;
+}
+.move{
+	float:right;
+	height:50px;
+	padding:10px;}
+#teeth , #sos{
+position:absolute;
+left:60px;
+bottom:5px;
+color:black;}
+.shift{
+	height:50px;
+	padding:6px;}
+#sos{
+	top:30px;
+	font-size:small;}
+.play{
+	padding:20px;}
+#newdiv{
+	padding:20px;}
+.tee{
+	padding:20px;
+	height:130px;}
